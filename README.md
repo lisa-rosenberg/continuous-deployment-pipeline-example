@@ -1,8 +1,8 @@
 Continuous Deployment Pipeline Example
 ======================================
 
-[![Build Status](https://travis-ci.org/lisa-rosenberg/CD-Pipeline-Example.svg?branch=master)](https://travis-ci.org/lisa-rosenberg/CD-Pipeline-Example)
-[![BCH compliance](https://bettercodehub.com/edge/badge/lisa-rosenberg/CD-Pipeline-Example?branch=master)](https://bettercodehub.com/)
+[![Build Status](https://travis-ci.org/lisa-rosenberg/Continuous-Deployment-Pipeline-Example.svg?branch=master)](https://travis-ci.org/lisa-rosenberg/Continuous-Deployment-Pipeline-Example)
+[![BCH compliance](https://bettercodehub.com/edge/badge/lisa-rosenberg/Continuous-Deployment-Pipeline-Example?branch=master)](https://bettercodehub.com/)
 
 Information
 -------
